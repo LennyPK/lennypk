@@ -11,12 +11,14 @@
 <h1 align="center" justify-items='middle'>
   Hi, I'm Lenny
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" />
-  <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRoNDJ3amdjb2EzNjh4cnlna3RjMTdueDhlcDVkajE2czlnbXo5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MWSRkVoNaC30A/giphy.gif" width="50px"/> -->
 </h1>
 
 <div id="badges" align="center">
   <a href="mailto:contact@lennypk.dev">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://discord.gg/Vd8gaqAU">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
 
@@ -95,5 +97,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lennypk/lennypk/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lennypk/lennypk/output/pacman-contribution-graph.svg">
 </picture>
-
----
