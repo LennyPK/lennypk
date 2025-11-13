@@ -8,18 +8,19 @@
   />
 </div>
 
-<div id="badges" align="center">
-  <a href="mailto:contact@lennypk.dev">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
 <h1 align="center" justify-items='middle'>
   Hi, I'm Lenny
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" />
   <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRoNDJ3amdjb2EzNjh4cnlna3RjMTdueDhlcDVkajE2czlnbXo5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MWSRkVoNaC30A/giphy.gif" width="50px"/> -->
 </h1>
 
+<div id="badges" align="center">
+  <a href="mailto:contact@lennypk.dev">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+I'm most likely working on some project
 <!-- ### :man_technologist: About Me
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTzBgvK/giphy.gif" width="30" alt="bubbles"> from New Zealand. -->
@@ -85,14 +86,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <!-- [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=LennyPK&limit=5&theme=transparent&combine_all_yearly_contributions=true)](https://github.com/sallar/github-contributor-stats) -->
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="isocalendar-fullyear.svg" alt="Metrics" width="400">
-</div>
+</div> -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lennypk/lennypk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lennypk/lennypk/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lennypk/lennypk/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
