@@ -22,17 +22,15 @@
   </a>
 </div>
 
-I'm most likely working on some project
-<!-- ### :man_technologist: About Me
+<div align="center">
+  Probably rebuilding a project from the groundup because I found a better architecture for the 3rd time.
+  <br>
+  <br>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RhN2Z1M2I0dnQzOGhudjhnbDBrN2s5NXJhZWZ3d2syZTQ4NzFlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M7IbYPHhWz5s1jSq7e/giphy.gif" alt="Nerd" />
+</div>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTzBgvK/giphy.gif" width="30" alt="bubbles"> from New Zealand. -->
+---
 
-<!-- - :telescope: I’m working on a project called **[Project Name]** and learning so much!
-- :seedling: I’m currently learning everything about **[Technology]**
-- :zap: In my free time, I enjoy [Your Hobby].
-- :mailbox: How to reach me: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@lennypk.dev) -->
-
-<!-- --- -->
 <div align="center">
   <details open>
     <summary><strong>Languages</strong></summary>
@@ -52,7 +50,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <!-- <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> -->
   </details>
   <details open>
-    <summary><strong>Backend</strong></summary>
+    <summary><strong>Hosting & Databases</strong></summary>
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
     <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
@@ -86,14 +84,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LennyPK&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
   <!-- [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=LennyPK&limit=5&theme=transparent&combine_all_yearly_contributions=true)](https://github.com/sallar/github-contributor-stats) -->
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lennypk/lennypk/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lennypk/lennypk/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lennypk/lennypk/output/pacman-contribution-graph.svg">
+  </picture>
+
 </div>
-
-<!-- <div align="center">
-  <img src="isocalendar-fullyear.svg" alt="Metrics" width="400">
-</div> -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lennypk/lennypk/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lennypk/lennypk/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lennypk/lennypk/output/pacman-contribution-graph.svg">
-</picture>
